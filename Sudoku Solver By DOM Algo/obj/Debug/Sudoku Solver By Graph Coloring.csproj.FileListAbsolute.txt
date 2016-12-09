@@ -1,0 +1,17 @@
+Z:\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\bin\Debug\Sudoku Solver By DOM Algo.exe.config
+Z:\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\bin\Debug\Sudoku Solver By DOM Algo.exe
+Z:\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\bin\Debug\Sudoku Solver By DOM Algo.pdb
+Z:\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku_Solver_By_DOM_Algo.Form1.resources
+Z:\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku_Solver_By_DOM_Algo.Properties.Resources.resources
+Z:\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku Solver By Graph Coloring.csproj.GenerateResource.Cache
+Z:\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku Solver By DOM Algo.exe
+Z:\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku Solver By DOM Algo.pdb
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\bin\Debug\Sudoku Solver By DOM Algo.exe.config
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\bin\Debug\Sudoku Solver By DOM Algo.exe
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\bin\Debug\Sudoku Solver By DOM Algo.pdb
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku Solver By Graph Coloring.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku_Solver_By_DOM_Algo.Form1.resources
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku_Solver_By_DOM_Algo.Properties.Resources.resources
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku Solver By Graph Coloring.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku Solver By DOM Algo.exe
+\\vmware-host\Shared Folders\Fourth\MathematicalPro\Lab\Sudoku Solver By Graph Coloring\Sudoku Solver By DOM Algo\obj\Debug\Sudoku Solver By DOM Algo.pdb

@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{48C6A5A4-1809-46DF-A8C4-BCC69C53BB42}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sudoku Solver By DOM Algo/EmptyInterface.cs">
+    <Files>
+      <File FileName="Sudoku Solver By DOM Algo/Sudoku.cs" Line="6" Column="26" />
+      <File FileName="Sudoku Solver By DOM Algo/EmptyInterface.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Sudoku_220Solver_220By_220Graph_220Coloring PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

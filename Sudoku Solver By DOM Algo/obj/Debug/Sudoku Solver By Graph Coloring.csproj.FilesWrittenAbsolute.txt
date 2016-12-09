@@ -1,0 +1,10 @@
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/obj/Debug/Sudoku_Solver_By_DOM_Algo.Form1.resources
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/obj/Debug/Sudoku_Solver_By_DOM_Algo.Properties.Resources.resources
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/bin/Debug/Sudoku Solver By DOM Algo.exe.config
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/bin/Debug/Sudoku Solver By DOM Algo.exe.mdb
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/bin/Debug/Sudoku Solver By DOM Algo.pdb
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/bin/Debug/Sudoku Solver By DOM Algo.exe
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/obj/Debug/Sudoku Solver By DOM Algo.exe
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/obj/Debug/Sudoku Solver By DOM Algo.exe.mdb
+/Users/macboockpro/Main/Fourth/MathematicalPro/Lab/Sudoku Solver By Graph Coloring/Sudoku Solver By DOM Algo/obj/Debug/Sudoku Solver By DOM Algo.pdb
